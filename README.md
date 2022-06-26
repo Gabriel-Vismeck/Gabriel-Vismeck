@@ -1,8 +1,8 @@
 # Olá! Eu sou Gabriel Vismeck
 <div>
   <a href="https://github.com/gabriel-vismeck">
-  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=gabriel-vismeck&show_icons=true&theme=dark&include_allcommits=true&count_private=true"/>
-  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-vismeck&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gabriel-vismeck&show_icons=true&theme=dark&include_allcommits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-vismeck&layout=compact&langs_count=16&theme=dark"/>
 <div>
   
 <div style="display: inline_block"><br>

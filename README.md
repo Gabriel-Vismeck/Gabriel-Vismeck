@@ -1,8 +1,8 @@
 # Olá! Eu sou Gabriel Vismeck
 <div>
   <a href="https://github.com/gabriel-vismeck">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=gabriel-vismeck&show_icons=true&theme=github_dark&include_allcommits=true&count_private=true"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-vismeck&layout=compact&langs_count=16&theme=github_dark"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=gabriel-vismeck&show_icons=true&theme=gotham&include_allcommits=true&count_private=true"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-vismeck&layout=compact&langs_count=16&theme=gotham"/>
 <div>
 
   
@@ -17,18 +17,19 @@
 
 </div>
 
-  
+
 #
-  
-<div>
+
+
   <a href="mailto:gabrielvismeck01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-vismeck/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   
 ![Snake animation](https://github.com/Gabriel-Vismeck/Gabriel-Vismeck/blob/output/github-contribution-grid-snake.svg)
 
+
 #
 
 <a href="https://github.com/Gabriel-Vismeck/sistema-de-ensino-superior">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-vismeck&repo=sistema-de-ensino-superior&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-vismeck&repo=sistema-de-ensino-superior&theme=gotham" />
 </a>

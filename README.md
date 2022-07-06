@@ -1,9 +1,10 @@
 # Olá! Eu sou Gabriel Vismeck
 <div>
   <a href="https://github.com/gabriel-vismeck">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=gabriel-vismeck&show_icons=true&theme=dark&include_allcommits=true&count_private=true"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-vismeck&layout=compact&langs_count=16&theme=dark"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=gabriel-vismeck&show_icons=true&theme=github_dark&include_allcommits=true&count_private=true"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-vismeck&layout=compact&langs_count=16&theme=github_dark"/>
 <div>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -25,3 +26,9 @@
   
   
 ![Snake animation](https://github.com/Gabriel-Vismeck/Gabriel-Vismeck/blob/output/github-contribution-grid-snake.svg)
+
+#
+
+<a href="https://github.com/Gabriel-Vismeck/sistema-de-ensino-superior">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-vismeck&repo=sistema-de-ensino-superior&theme=github_dark" />
+</a>

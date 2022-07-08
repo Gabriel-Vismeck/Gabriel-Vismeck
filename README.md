@@ -33,3 +33,6 @@
 <a href="https://github.com/Gabriel-Vismeck/sistema-de-ensino-superior">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-vismeck&repo=sistema-de-ensino-superior&theme=gotham" />
 </a>
+<a href="https://github.com/Gabriel-Vismeck/calculadora-csharp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-vismeck&repo=calculadora-csharp&theme=gotham" />
+</a>

@@ -16,11 +16,10 @@
   <img align="center" alt="Gabriel-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img align="center" alt="Gabriel-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   <img align="center" alt="Gabriel-SQLSERVER" height="30" width="30" src="https://user-images.githubusercontent.com/104789249/177211187-676d5405-5fc3-4e1f-b665-c4225dfa254f.png">
-
 </div>
 
 
-#
+
 
 
   <a href="mailto:gabrielvismeck01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -30,4 +29,4 @@
 ![Snake animation](https://github.com/Gabriel-Vismeck/Gabriel-Vismeck/blob/output/github-contribution-grid-snake.svg)
 --!>
 
-#
+

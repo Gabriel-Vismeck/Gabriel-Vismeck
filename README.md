@@ -34,7 +34,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=red&color=0D1117)
 
 ### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=23FF2D20&color=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=234ea94b&labelColor=0D1117)&nbsp;
 ![.Net](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=5C2D91&labelColor=0D1117)&nbsp;
 

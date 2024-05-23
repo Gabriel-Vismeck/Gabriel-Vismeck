@@ -34,11 +34,11 @@
 <details> 
   <summary><b>💻 GitHub Profile Stats (Expand to View) </b></summary>
   <br>
-   <a href="https://github.com/chakravarthi-v">
+   <a href="https://github.com/gabriel-vismeck">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-vismeck&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
   </a>
-  <a href="https://github.com/chakravarthi-v">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-vismeck&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Chakravarthi's github stats" height="220px" />
+  <a href="https://github.com/gabriel-vismeck">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-vismeck&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Gabriel's github stats" height="220px" />
   </a>
 </details>
 

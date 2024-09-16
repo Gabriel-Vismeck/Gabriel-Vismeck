@@ -31,8 +31,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
 <h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px></h2>
-<details> 
-  <summary><b>💻 GitHub Profile Stats (Expand to View) </b></summary>
   <br>
    <a href="https://github.com/gabriel-vismeck">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-vismeck&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
@@ -40,6 +38,5 @@
   <a href="https://github.com/gabriel-vismeck">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-vismeck&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Gabriel's github stats" height="220px" />
   </a>
-</details>
 
 
